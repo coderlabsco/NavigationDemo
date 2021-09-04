@@ -1,8 +1,8 @@
 Command line invocation:
-    /Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild -project /Users/bryanabolivarm/Develop/Coderlabs/NavigationDemo/NavigationDemo.xcodeproj -scheme NavigationiOS clean archive -archivePath /var/folders/cd/y0nh5x215w5grnpf2rzw0qrh0000gn/T/__codesigndoc__488492384/NavigationiOS.xcarchive
+    /Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild -project /Users/bryanabolivarm/Develop/Coderlabs/NavigationDemo/NavigationDemo.xcodeproj -scheme NavigationiOS clean archive -archivePath /var/folders/cd/y0nh5x215w5grnpf2rzw0qrh0000gn/T/__codesigndoc__897745477/NavigationiOS.xcarchive
 
 User defaults from command line:
-    IDEArchivePathOverride = /var/folders/cd/y0nh5x215w5grnpf2rzw0qrh0000gn/T/__codesigndoc__488492384/NavigationiOS.xcarchive
+    IDEArchivePathOverride = /var/folders/cd/y0nh5x215w5grnpf2rzw0qrh0000gn/T/__codesigndoc__897745477/NavigationiOS.xcarchive
     IDEPackageSupportUseBuiltinSCM = YES
 
 note: Using new build system
@@ -17,6 +17,6 @@ note: Planning build
 note: Analyzing workspace
 note: Constructing build description
 note: Build preparation complete
-error: Provisioning profile "iOS Team Provisioning Profile: *" doesn't include the currently selected device "Mac mini de Bryan" (identifier 76696504-000B-51D5-BD80-97F0B92D4603). (in target 'NavigationiOS' from project 'NavigationDemo')
+error: Provisioning profile "XC Ad Hoc: *" doesn't include the currently selected device "Mac mini de Bryan" (identifier 76696504-000B-51D5-BD80-97F0B92D4603). (in target 'NavigationiOS' from project 'NavigationDemo')
 
 ** ARCHIVE FAILED **
