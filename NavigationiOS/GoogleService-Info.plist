@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>426353817439-onudriuvb9tkvqtaeihgq7ukrgt1r5ie.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.426353817439-onudriuvb9tkvqtaeihgq7ukrgt1r5ie</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCCxW-Vy72xMCZRXdqIKGCRsyoqQPJKD7E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>426353817439</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.bolivarbryan.navdemo</string>
+	<key>PROJECT_ID</key>
+	<string>hopeful-hold-158105</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hopeful-hold-158105.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:426353817439:ios:19383cc5d6a6bc55ae68ea</string>
+</dict>
+</plist>
